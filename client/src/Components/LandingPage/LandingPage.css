@@ -1,0 +1,60 @@
+.landingDiv{
+    /* border: 2px solid red; */
+    margin-left: -2.3%;
+}
+
+.divFlex{
+    display: flex;
+    padding: 6%;
+    /* border: 2px solid blue; */
+    gap: 6%;
+}
+.divFlex>div{
+    width: 100%;
+    height: 450px;
+}
+
+.divFlex>div>img{
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 100%;
+}
+
+.InputLandDiv{
+    background-color: #f39803;
+    color: whitesmoke;
+    border-radius: 10%;
+}
+.inputTagsInfo{
+    width: 100%;
+    /* border: 2px solid red; */
+}
+.inputTagsInfo>input{
+    width: 80%;
+    height: 30px;
+    /* border-radius: 10%; */
+    border: transparent;
+    background-color: #ffc655;
+}
+
+.inputFlex{
+    display: flex;
+    gap: 4%;
+    margin-left: 10%;
+}
+.inputFlex>input{
+    width: 41.5%;
+    height: 30px;
+    /* border-radius: 10%; */
+    border: transparent;
+    background-color: #ffc655;
+}
+
+.inputTagsInfo>button{
+    width: 80%;
+    padding: 2%;
+    border: transparent;
+    font-size: larger;
+    background-color: #ffecc4;
+    color: rgb(228, 64, 64);
+}

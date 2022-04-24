@@ -1,0 +1,93 @@
+.CategoryDiv{
+    display: flex ;
+    padding: 6%;
+    gap: 5%;
+    /* display: table; */
+}
+
+.CategoryDiv>div{
+    width: 100%;
+    height: 220px;
+    border-radius: 16%;
+    /* border: 2px solid red; */
+}
+
+.CategoryDiv>div>img{
+    width: 100%;
+    height: 100%;
+}
+
+.back1{
+    background-image: url("https://cdn.pixabay.com/photo/2016/02/19/15/46/labrador-retriever-1210559__340.jpg" );
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    align-items: center;
+}
+
+.back2{
+    background-image: url("https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" );
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    align-items: center;
+}
+
+.back3{
+    background-image: url("https://images.pexels.com/photos/104373/pexels-photo-104373.jpeg?cs=srgb&dl=pexels-mike-104373.jpg&fm=jpg" );
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    align-items: center;
+}
+
+.back1>div {
+    /* border: 2px solid pink; */
+    height: 50px;
+    margin-top: 48.9%;
+    width: 74%;
+    margin-left: 13%;
+    color: whitesmoke;
+    background-color: #f39803;
+    /* border-radius: 50%; */
+    border-radius: 50% 50% 0 0/100% 100% 0 0;
+    padding-top: 4%;
+}
+.back2>div {
+    /* border: 2px solid pink; */
+    height: 50px;
+    margin-top: 48.9%;
+    width: 74%;
+    margin-left: 13%;
+    color: whitesmoke;
+    background-color: #f39803;
+    /* border-radius: 50%; */
+    border-radius: 50% 50% 0 0/100% 100% 0 0;
+    padding-top: 4%;
+}
+.back3>div {
+    /* border: 2px solid pink; */
+    height: 50px;
+    margin-top: 48.9%;
+    width: 74%;
+    margin-left: 13%;
+    color: whitesmoke;
+    background-color: #f39803;
+    /* border-radius: 50%; */
+    border-radius: 50% 50% 0 0/100% 100% 0 0;
+    padding-top: 4%;
+}
+
+
+.back1>div>p{
+    font-weight: bolder;
+}
+.back2>div>p{
+    font-weight: bolder;
+}
+.back3>div>p{
+    font-weight: bolder;
+}

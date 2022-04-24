@@ -1,0 +1,19 @@
+.DiscountDiv{
+    background-image: url("https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNTYyLW51bm9vbi0wNS5wbmc.png?s=uOwjBXgo97jZE9QqLIpidn6chjlaSGxN0YQEkkF7ZkM");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 86%;
+    margin: auto;
+    background-color: #f2a301;
+    align-items: center;
+    height: 400px;
+}
+
+.disDescription{
+    /* padding: 4%; */
+    /* padding-top: 17%; */
+    /* padding-left: -5%; */
+    font-size: larger;
+    color: red;
+}

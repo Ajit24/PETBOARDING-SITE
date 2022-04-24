@@ -1,0 +1,16 @@
+.divSelectOne{
+    /* display: flex; */
+    width: 80%;
+    /* border: 2px solid red; */
+    /* margin: auto; */
+    padding-left: 8%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:5%;
+    margin:2% ;
+}
+
+.textDiv{
+    width: 80%;
+    margin: auto;
+}

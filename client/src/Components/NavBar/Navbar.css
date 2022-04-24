@@ -1,0 +1,15 @@
+.navBarDiv{
+    /* border: 2px solid red !important;     */
+    padding-left: 18% !important;
+    background-color: #4E944F !important;
+    color: #E9EFC0 !important ;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+    color: #E9EFC0 !important;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root{
+    /* font-weight: bolder !important; */
+    font-size: larger !important;
+}

@@ -1,0 +1,51 @@
+.servicesMainD{
+    display: flex;
+    margin: auto;
+    /* width: 90%; */
+    padding: 6%;
+}
+
+.serviceInfo{
+    /* width: 80%; */
+    padding: 4%;
+
+}
+.serviceInfo>div>button{
+    border: transparent;
+    /* border: 2px solid red; */
+    padding: 3%;
+    background-color: #ffecc2;
+    color: red;
+    font-weight: bolder;
+}
+
+.sevice4div{
+    padding: 3%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: auto ;
+    gap: 9%;
+}
+
+.sevice4div>div{
+    background-color: #f2f2f2;
+    width: 180px;
+    height: 160px;
+    border-radius: 20%;
+    /* border: 2px solid red; */
+}
+
+.sevice4div>div>div>img{
+    /* border: 2px solid red; */
+    width: 100px;
+    height: 90px;
+    margin-top: 17%;
+    border-radius: 50%;
+}
+
+.sevice4div>div>div>p{
+    /* border: 2px solid blue; */
+    margin-top: -0.1%;
+    font-weight: bolder;
+}
